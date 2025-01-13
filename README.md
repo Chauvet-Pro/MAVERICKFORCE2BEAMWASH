@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240826 - Maverick Force 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKFORCE2BEAMWASH/blob/0132b1dd66b627f4d3531a9397a93a8dccf3993a/Firmware/V1.240826.zip)
+- Fixed minor bugs
+
 [V1.230608 - Maverick Force 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKFORCE2BEAMWASH/blob/712c823f8b9077e10844c7445aa0fe477e9fa67c/Firmware/V1.230608.zip)
 - Released initial software version
 
